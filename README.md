@@ -1,7 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![github](kodluyoruzilkrepo/resim/ahmet.png =300x)
+![Açıklama](resim\ahmet.png)
+
 
 
 # Kodluyoruz Ilk Repo
