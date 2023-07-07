@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![Açıklama](resim\ahmet.png)
+![Açıklama](resim/ahmet.png)
 
 
 
